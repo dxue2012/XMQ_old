@@ -7,6 +7,6 @@
 *.ear
 
 # Images and Sounds #
-*.jpg
-*.png
-*.mp3
+#*.jpg
+#*.png
+#*.mp3
