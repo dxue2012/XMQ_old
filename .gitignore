@@ -10,3 +10,6 @@
 #*.jpg
 #*.png
 #*.mp3
+
+# Miscellaneous #
+.DS_Store
