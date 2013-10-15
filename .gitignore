@@ -1,6 +1,12 @@
+# Java Class Files #
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
+
+# Images and Sounds #
+*.jpg
+*.png
+*.mp3
